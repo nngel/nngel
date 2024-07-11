@@ -6,6 +6,10 @@ A computer science student, Currently studying at New Era University. This is my
 ## 🎓 Education
 I'm currently a student at New Era University.
 
+## Certification
+
+* [SQL and Relational Database](https://courses.cognitiveclass.ai/certificates/d0e63933c942445498bebbae9064aa1b)
+* [Oracle Cloud Infastracture 2022](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C830FE4C27D0C9A2B1C97DFCE657EF6C7BC84A152013C1476F5BAD4187AAF725)
 
 ## 🛠 Tech Achievement
 ### Powerbi
@@ -22,14 +26,25 @@ I'm currently a student at New Era University.
 ### Data Visualization Tools: 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" height="45"/>
 
+* Power Bi
+
 ### Programming Language:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="48"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="code igniter" height="48"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="48"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="48"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="48"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" height="48"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="48"/>
+
+* Bootstrap
+* CSS
+* Java
+* Javascript
+* Kotlin
+* php
 
 ### DBMS (database management system)
 <img src="https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png" alt="db2" height="48"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" height="48"/>
 
+ * DB2
+ * MySQL
 ### Tools:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" height="48"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android Studio" height="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" height="48"/>
