@@ -1,7 +1,7 @@
 ## Hi there 👋, My name is Edward Angel R. Lorica
 
-A computer science student, Currently studying at New Era University. This is my GitHub profile, where you'll find my code and projects.
-
+A computer science student.
+This is my GitHub profile, where you'll find my code and projects.
 
 ## 🎓 Education
 I'm currently a student at New Era University.
