@@ -6,7 +6,7 @@ A computer science student, Currently studying at New Era University. This is my
 ## 🎓 Education
 I'm currently a student at New Era University.
 
-## Certification
+## 📜 Certification
 
 * [SQL and Relational Database](https://courses.cognitiveclass.ai/certificates/d0e63933c942445498bebbae9064aa1b)
 * [Oracle Cloud Infastracture 2022](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C830FE4C27D0C9A2B1C97DFCE657EF6C7BC84A152013C1476F5BAD4187AAF725)
