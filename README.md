@@ -15,9 +15,7 @@ I'm currently a student at New Era University.
 ### Powerbi
 
 * [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiYmM3N2M4NjQtYmRmYi00MDY1LTkzODMtOGY0ZDAyOWU0ZDRkIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
-
 * [Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiNWJmMTIzODgtNGE5MS00Y2RjLWJhMjctYzAyZjJhZDZlYmVlIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
-
 * [Pro Elective 4 Report](https://app.powerbi.com/view?r=eyJrIjoiMmJmY2VmOTQtM2Q2OS00NTZiLTljM2UtYTE4OWRkOTlhMzhkIiwidCI6ImRmMzU3OGUzLWVmYmItNGMwYS05MTkxLTg4OWM5ZGU0MjY2YyIsImMiOjEwfQ%3D%3D)
 
 
