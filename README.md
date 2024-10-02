@@ -1,4 +1,4 @@
-![codeward](https://www.codewars.com/users/nngel/badges/small)
+![codeward](https://www.codewars.com/users/nngel/badges/large)
 
 <!--
 
