@@ -1,4 +1,4 @@
-![codeward](https://www.codewars.com/users/nngel/badges/large)
+<a href="https://www.codewars.com/users/nngel" target="_blank"> <img src="https://www.codewars.com/users/nngel/badges/small" width="500"> </a>
 
 <!--
 
