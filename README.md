@@ -1,4 +1,5 @@
-<a href="https://www.codewars.com/users/nngel" target="_blank"> <img src="https://www.codewars.com/users/nngel/badges/small" width="500"> </a>
+### Codewars Stats
+<a href="https://www.codewars.com/users/nngel" target="_blank"> <img src="https://www.codewars.com/users/nngel/badges/small" width="450"> </a>
 
 <!--
 
