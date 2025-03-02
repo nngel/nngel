@@ -1,3 +1,6 @@
+### Welcome to my Github Profile
+Curently, this page is a mess. Currently, I'm building apps for my portfolio.
+
 ### Codewars Stats
 <a href="https://www.codewars.com/users/nngel" target="_blank"> <img src="https://www.codewars.com/users/nngel/badges/small" width="450"> </a>
 
