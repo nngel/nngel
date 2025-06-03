@@ -15,12 +15,17 @@ I'm an aspiring developer focused on web development, backend technologies, AI i
 
 ## 🌱 Currently Learning
 - Advanced Spring Boot features and microservices architecture
-- Machine learning integration with web applications
+- Machine learning and model training techniques for thesis research project
 - Advanced Docker orchestration and Kubernetes
 
-## 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/edward-angel-lorica-9127b2235/) 
-- 📧 Email: edwardangellorica@gmail.com
+## 🚀 Featured Projects
+
+### PDF Thumbnail Service
+- **Repo:** [nngel/PDF-thumbnail-service](https://github.com/nngel/PDF-thumbnail-service)
+- **Live Docs:** [lor-service-pdfhumbnail.vercel.app/docs](https://lor-service-pdfhumbnail.vercel.app/docs)
+- A web service for generating thumbnails from PDF files. Built with modern backend technologies and deployed on Vercel for fast, reliable access.
+
+**More projects coming soon...**
 
 ## 🔧 Technical Expertise
 
@@ -37,7 +42,7 @@ I'm an aspiring developer focused on web development, backend technologies, AI i
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) <br/>Created a **FastAPI service** connecting to multiple LLM APIs (OpenAI, OpenRouter) for AI-powered applications. Enables flexible AI model switching and cost optimization for different use cases.
 
-- ![Java](https://img.shields.io/badge/☕%20Java-ED8B00?style=flat-square&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br/>Developed a **GraphQL API** with Spring Boot and PostgreSQL for user account operations and query optimization.
+- ![Java](https://img.shields.io/badge/☕%20Java-ED8B00?style=flat-square&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br/>Developed a **GraphQL API** with Spring Boot and PostgreSQL for user account operations and query optimization. Implemented efficient data fetching and reduced API calls by 60%.
 
 ### Frontend Dev
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) <br/>Building frontend applications with React, TypeScript, Tailwind CSS, and vanilla CSS for responsive design.
