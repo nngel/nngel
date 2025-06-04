@@ -14,7 +14,7 @@ I'm an aspiring developer focused on web development, backend technologies, AI i
 *Note: I'm actively developing several repositories as I continue expanding my technical skills and refining existing projects. Feel free to contact me for a detailed portfolio walkthrough (some repositories are currently private).*
 
 ## 🌱 Currently Learning
-- Advanced Spring Boot features and microservices architecture
+- Advanced Spring Boot features and microservices architecture (Currently learning at Broadcom Spring Academy)
 - Machine learning and model training techniques for thesis research project
 - Advanced Docker orchestration and Kubernetes
 
