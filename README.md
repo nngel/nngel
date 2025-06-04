@@ -20,6 +20,12 @@ I'm an aspiring developer focused on web development, backend technologies, AI i
 
 ## 🚀 Featured Projects
 
+### PDFHub - Enterprise PDF Management Platform
+- **Live Site:** [lor-pdfmanager.vercel.app](https://lor-pdfmanager.vercel.app/)
+- A comprehensive, enterprise-grade PDF management platform built with modern full-stack technologies. This project demonstrates advanced web development practices, security implementations, and scalable cloud architecture.
+
+*Note: This project is actively being updated with new features and improvements.*
+
 ### PDF Thumbnail Service
 - **Repo:** [nngel/PDF-thumbnail-service](https://github.com/nngel/PDF-thumbnail-service)
 - **Live Docs:** [lor-service-pdfhumbnail.vercel.app/docs](https://lor-service-pdfhumbnail.vercel.app/docs)
