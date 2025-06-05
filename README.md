@@ -28,7 +28,7 @@ I'm an aspiring developer focused on web development, backend technologies, AI i
 
 ### PDF Thumbnail Service
 - **Repo:** [nngel/PDF-thumbnail-service](https://github.com/nngel/PDF-thumbnail-service)
-- **Live Docs:** [lor-service-pdfhumbnail.vercel.app/docs](https://lor-service-pdfhumbnail.vercel.app/docs)
+- **Live Site:** [https://lor-service-pdfthumbnail.vercel.app](https://lor-service-pdfthumbnail.vercel.app)
 - A web service for generating thumbnails from PDF files. Built with modern backend technologies and deployed on Vercel for fast, reliable access.
 
 **More projects coming soon...**
@@ -36,11 +36,20 @@ I'm an aspiring developer focused on web development, backend technologies, AI i
 ## 🔧 Technical Expertise
 
 ### Main Programming Languages
-- ![Java](https://img.shields.io/badge/☕%20Java-ED8B00?style=flat-square&logoColor=white) <br/>Proficient in Java with solid OOP understanding. Working with design patterns and learning Spring Boot for enterprise development.
+![Java](https://img.shields.io/badge/☕%20Java-ED8B00?style=flat-square&logoColor=white) ![Java OOP](https://img.shields.io/badge/☕%20Java-OOP-ED8B00?style=flat-square&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
+<br>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br>![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) <br/>Comfortable with Python for OOP projects and writing comprehensive tests for applications.
+### Web Dev
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
+<br>![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) 
+<br>![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) <br/>Working with JavaScript and TypeScript to build complete web applications from start to finish.
+### Cloud Platforms & Deployment
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+<br>![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white) 
+<br>![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-F38020?style=flat-square&logo=cloudflare&logoColor=white) 
 
 ### Backend Projects
 
@@ -48,21 +57,7 @@ I'm an aspiring developer focused on web development, backend technologies, AI i
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) <br/>Created a **FastAPI service** connecting to multiple LLM APIs (OpenAI, OpenRouter) for AI-powered applications. Enables flexible AI model switching and cost optimization for different use cases.
 
-- ![Java](https://img.shields.io/badge/☕%20Java-ED8B00?style=flat-square&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br/>Developed a **GraphQL API** with Spring Boot and PostgreSQL for user account operations and query optimization. Implemented efficient data fetching and reduced API calls by 60%.
-
-### Frontend Dev
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) <br/>Building frontend applications with React, TypeScript, Tailwind CSS, and vanilla CSS for responsive design.
-
-- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) <br/>Working with React Native for cross-platform mobile development in team projects.
-
-- ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) <br/>Using Axios for API integration, handling HTTP requests, and managing data flow in web and mobile apps.
-
-### Cloud Platforms & Deployment
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) <br/>Deploying applications on AWS, Azure, GCP, and DigitalOcean. Experience with VMs, security groups, DNS configuration, and SSL certificates.
-
-- ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white) <br/>Using Vercel for frontend deployments with automatic CI/CD. Containerizing applications with Docker and Docker Compose for consistent development and deployment environments.
-
-- ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-F38020?style=flat-square&logo=cloudflare&logoColor=white) <br/>Using Cloudflare Zero Trust tunnels to securely expose local applications with custom domains and automatic SSL.
+- ![Java](https://img.shields.io/badge/☕%20Java-ED8B00?style=flat-square&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br/>Developed a **GraphQL API** with Spring Boot and PostgreSQL for user account operations and query optimization.
 
 ## 📊 Data Visualization & Analytics
 
