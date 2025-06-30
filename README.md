@@ -7,16 +7,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nngel&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nngel&layout=compact&theme=radical)
 
-# Welcome to My GitHub Profile!
-
-I'm an aspiring developer focused on web development, backend technologies, AI integration, data visualization, and mobile app development. I'm building my skills and working on meaningful projects.
-
-*Note: I'm actively developing several repositories as I continue expanding my technical skills and refining existing projects. Feel free to contact me for a detailed portfolio walkthrough (some repositories are currently private).*
-
-## 🌱 Currently Learning
-- Advanced Spring Boot features and microservices architecture (Currently learning at Broadcom Spring Academy)
-- Machine learning and model training techniques for thesis research project
-- Advanced Docker orchestration and Kubernetes
 
 ## 🚀 Featured Projects
 
@@ -51,19 +41,6 @@ I'm an aspiring developer focused on web development, backend technologies, AI i
 ### Cloud & Deployment
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 <br>![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-## Project Experience
-
-### Backend Development
-- ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br/>Built a **library management system** with Express.js, TypeScript, and PostgreSQL. Features user authentication (manual and Google OAuth), PDF uploads/downloads, and thumbnail generation. Solved complex file handling challenges and implemented secure document storage.
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) <br/>Created a **FastAPI service** connecting to multiple LLM APIs (OpenAI, OpenRouter) for AI-powered applications. Enables flexible AI model switching and cost optimization for different use cases.
-
-- ![Java](https://img.shields.io/badge/☕%20Java-ED8B00?style=flat-square&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br/>Developed a **GraphQL API** with Spring Boot and PostgreSQL for user account operations and query optimization.
-
-## How to Reach Me
-- **LinkedIn:** [Edward Angel Lorica](https://www.linkedin.com/in/edward-angel-lorica-9127b2235/)
-- **Email:** edwardangellorica@gmail.com
 
 ## Data Visualization & Analytics
 
