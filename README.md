@@ -8,21 +8,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nngel&layout=compact&theme=radical)
 
 
-## 🚀 Featured Projects
-
-### PDFHub - PDF Management Platform
-- **Live Site:** [lor-pdfmanager.vercel.app](https://lor-pdfmanager.vercel.app/)
-- A comprehensive, robust PDF management platform built with modern full-stack technologies. This project demonstrates advanced web development practices, security implementations, and scalable cloud architecture.
-
-*Note: This project is actively being updated with new features and improvements.*
-
-### PDF Thumbnail Service
-- **Repo:** [nngel/PDF-thumbnail-service](https://github.com/nngel/PDF-thumbnail-service)
-- **Live Site:** [https://lor-service-pdfthumbnail.vercel.app](https://lor-service-pdfthumbnail.vercel.app)
-- A web service for generating thumbnails from PDF files. Built with modern backend technologies and deployed on Vercel for fast, reliable access.
-
-**More projects coming soon...**
-
 ## Technical Stack
 
 ### Programming Languages
