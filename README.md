@@ -41,12 +41,16 @@
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  
+  
+  <hr>
+  <h3> Codewars stats:</h3>
+
+  <a href="https://www.codewars.com/users/nngel" target="_blank"> <img src="https://www.codewars.com/users/nngel/badges/small" width="450"> </a>
+
 
 </div>
 
-### Codewars stats:
-
-<a href="https://www.codewars.com/users/nngel" target="_blank"> <img src="https://www.codewars.com/users/nngel/badges/small" width="450"> </a>
 
 
 <!--
